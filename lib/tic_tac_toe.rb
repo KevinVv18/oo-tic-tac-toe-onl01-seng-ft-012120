@@ -104,8 +104,9 @@ end
       nil
     end
   end
+
 end
-end
+
 
   def play
     while over? == false
@@ -116,6 +117,7 @@ end
     else draw?
     puts "Cat's Game!"
    end
+ end
  end
 
 
